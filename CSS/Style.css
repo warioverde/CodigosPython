@@ -1,0 +1,29 @@
+/*p{
+    color: rebeccapurple;
+}
+h1{
+    background-color: green;
+}
+main{
+    background-color: blue;
+}
+body{
+    background-color: black;
+}
+*/
+/*p{
+    background-color: yellow;
+    color: white;
+}
+a{
+    color: inherit;
+}*/
+#identificador{
+    color: orange;
+}
+.clase{
+    color: lawngreen;
+}
+p{
+    color: coral ! important;
+}

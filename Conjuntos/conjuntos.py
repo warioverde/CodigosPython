@@ -1,0 +1,17 @@
+#conjunto = set((1,2,3,4,5,6,7))
+conjunto = {1,2,3,4,5,5,2,3} #el conjunto solo mostrara un valor dentro del conjunto
+lista = [1,1,2,3,4,4]
+print(conjunto)
+print(lista)
+print(type(conjunto))
+print(type(lista))
+conjunto.add(20)
+print(conjunto)
+conjunto.remove(5)
+print(conjunto)
+conjunto.discard(1)
+print(conjunto)
+conjunto.pop()
+print(conjunto)
+conjunto.update([7,8,90])
+print(conjunto)
